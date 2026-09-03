@@ -1,8 +1,8 @@
-#Problem:
-#Convert kilometers to smoots
-#Input: distance in kilometers
-#Output: distance in smoots
-#Process: convert kilometers to meters, then meters to smoots
+#problem:
+#convert kilometers to smoots
+#input: distance in kilometers
+#output: distance in smoots
+#process: convert kilometers to meters, then meters to smoots
 
 print("welcome to the Smoot converter")
 
